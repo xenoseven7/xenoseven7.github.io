@@ -8,13 +8,13 @@ But I'm sure that you can improve your level of ATC communication, which leads t
 <details>
   <summary>TOPHON BRIDGE INTL.(JTPH)</summary>
   <img src="https://i.ibb.co/D4zvKG2/2.png" alt="JTPH Chart PNG">
-  <p><a href="about:blank" target="_blank">AD Chart PDF</a></p>
+  <p><a href="https://github.com/xenoseven7/xenoseven7.github.io/raw/master/files/JTPH_AD%20Chart.pdf" target="_blank">AD Chart PDF</a></p>
 </details>
 
 <details>
   <summary>WELLINSAUL SQUARE(JSLL)</summary>
   <img src="https://i.ibb.co/D4zvKG2/2.png" alt="JSLL Chart PNG">
-  <p><a href="about:blank" target="_blank">AD Chart PDF</a></p>
+  <p><a href="https://github.com/xenoseven7/xenoseven7.github.io/raw/master/files/JSLL_AD%20Chart.pdf" target="_blank">AD Chart PDF</a></p>
 </details>
 
 If you have any question or suggestion, please let me know by emailing xenoseven7@gmail.com.
