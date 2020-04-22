@@ -7,12 +7,14 @@ But I'm sure that you can improve your level of ATC communication, which leads t
 
 <details>
   <summary>TOPHON BRIDGE INTL.(JTPH)</summary>
-  <p><a href="about:blank" target="_blank">AD Chart</a></p>
+  ![JTPH AD Chart](https://i.ibb.co/QbHCm0Y/1.png)
+  <p><a href="about:blank" target="_blank">AD Chart PDF</a></p>
 </details>
 
 <details>
   <summary>WELLINSAUL SQUARE(JSLL)</summary>
-  <p><a href="about:blank" target="_blank">AD Chart</a></p>
+  ![JSLL AD Chart](https://i.ibb.co/D4zvKG2/2.png)
+  <p><a href="about:blank" target="_blank">AD Chart PDF</a></p>
 </details>
 
 If you have any question or suggestion, please let me know by emailing xenoseven7@gmail.com.
